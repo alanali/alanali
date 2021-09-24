@@ -5,6 +5,8 @@
 - 🥳 I'm excited about the upcoming hackathon called CalHacks at UC Berkeley!
 - 📫 You can reach me at ruiruialana@gmail.com! I check email pretty often.
 
+Check out my website https://alanali.github.io/! It's currently a WIP.
+
 <!---
 alanali/alanali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
