@@ -25,9 +25,9 @@
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
 <blockquote>
-"office_quote.quote"
+"${office_quote.quote}"
   <p></p>
-<p>- office_quote.character</p>
+<p>- ${office_quote.character}</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
