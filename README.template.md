@@ -19,6 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
 </a>
+<br>
 ![Snake animation](https://github.com/alanali/github-readme/blob/output/github-contribution-snake.svg)
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
