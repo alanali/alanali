@@ -33,7 +33,7 @@
 <br>
 
 <h2 align="center">📈 Github Stats 📈</h2>
-<div align=center>
+<div>
   <a href="https://github.com/alanali">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
   </a>
