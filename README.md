@@ -36,14 +36,14 @@
 <p align="center">
   <div align="center">
     <a href="https://github.com/alanali">
-      <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
+      <img align="left" width=48% src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
     </a>
     <a href="https://github.com/alanali">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
+      <img align="right" width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
     </a>
   </div>
 </p>
-<br>
+<br><br><br><br><br><br><br><br><br>
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
 <div align=center>
   <img src="https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg">
