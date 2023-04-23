@@ -23,9 +23,9 @@
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
 <blockquote>
-Jim couldn’t land me in a thousand years.
+Did I stutter?
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Stanley Hudson</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
