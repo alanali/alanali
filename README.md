@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
+We’re all homos. Homo… Sapiens.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
