@@ -35,6 +35,8 @@
 <h2 align="center">📈 Github Stats 📈</h2>
 <a href="https://github.com/alanali">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
+</a>
+<a href="https://github.com/alanali">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
 </a>
 <br>
