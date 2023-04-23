@@ -24,10 +24,11 @@
 </a>
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
-{office_quote}
-
-<p> - {office_character}</p>
+> {office_quote}
+>
+> <p>{office_character}</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
+
 
 Check back at the top of the hour for a new quote!
