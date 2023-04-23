@@ -32,4 +32,4 @@
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 
-Check back at the top of the hour for a new quote!
+Check back every day for a new quote!
