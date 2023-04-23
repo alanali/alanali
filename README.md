@@ -17,17 +17,15 @@
 <h3 align="left">📈 Github Stats</h3>
 <a href="https://github.com/alanali">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
-</a>
-
-<a href="https://github.com/alanali">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
 </a>
+![Snake animation](https://github.com/alanali/github-readme/blob/output/github-contribution-snake.svg)
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
 <blockquote>
-You know a human can go on living for several hours after being decapitated.
+My mind is going a mile an hour.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
