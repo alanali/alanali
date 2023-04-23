@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-{office_quote}
+Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
   <p></p>
-<p>{office_character}</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
