@@ -24,8 +24,8 @@
 </a>
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
-<p>{office_quote}</p>
+<p>Dwight Schrute</p>
 
-<p>{office_character}</p>
+<p>- Dwight Schrute</p>
 
 Check back at the top of the hour for a new quote!
