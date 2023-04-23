@@ -19,13 +19,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
 </a>
-![Snake animation](https://github.com/alanali/github-readme/blob/output/github-contribution-snake.svg)
+<br>
+![Snake animation](https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg)
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
 <blockquote>
-Did I stutter?
+Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
   <p></p>
-<p>- Stanley Hudson</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
