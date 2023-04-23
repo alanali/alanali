@@ -20,30 +20,29 @@
   </a>
 </p>
 <div align=center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=dracula" alt="alanali" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=panda" alt="alanali" /></p>
 </div>
 <br>
 
 <h2 align="center">👩‍💻 Repositories 👩‍💻</h2>
 <a href="https://github.com/alanali/alanali.github.io">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=dracula" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=panda" />
 </a>
 <br>
 <br>
 <br>
 
 <h2 align="center">📈 Github Stats 📈</h2>
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/alanali">
-      <img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
-    </a>
-    <a href="https://github.com/alanali">
-      <img align="right" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
-    </a>
-  </div>
-</p>
-<br><br><br><br><br><br><br><br>
+
+|     |     |
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=panda" alt="alanali" />  |  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=panda" alt="alanali" />
+
+|     |     |
+:-------------------------:|:-------------------------:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=panda)  |  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=panda&utcOffset=8)
+
+<br>
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
 <div align=center>
   <img src="https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg">
