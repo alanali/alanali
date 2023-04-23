@@ -24,9 +24,9 @@
 </a>
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
-"Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked, but it’s not like this compulsive need to be liked, like my need to be praised."
+All that singing got in the way of some perfectly good murders.
 
-<p> - Michael Scott</p>
+<p> - - Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
