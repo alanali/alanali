@@ -40,7 +40,7 @@
 
 |     |     |
 :-------------------------:|:-------------------------:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=panda)  |  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=panda&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=panda)  |  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=panda&utcOffset=-7)
 
 <br>
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
