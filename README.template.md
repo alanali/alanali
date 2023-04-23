@@ -33,3 +33,6 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 
 Check back every day for a new quote!
+
+
+![Snake animation](https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg)
