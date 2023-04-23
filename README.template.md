@@ -36,10 +36,10 @@
 <p align="center">
   <div align="center">
     <a href="https://github.com/alanali">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
+      <img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula" alt="alanali" />
     </a>
     <a href="https://github.com/alanali">
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
+      <img align="right" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula" alt="alanali" />
     </a>
   </div>
 </p>
