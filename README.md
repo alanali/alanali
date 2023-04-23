@@ -24,12 +24,12 @@
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
 <blockquote>
-Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
+{office_quote}
   <p></p>
-<p>- Michael Scott</p>
+<p>{office_character}</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 
-Check back at the top of the hour for a new quote!
+Check back every day for a new quote!
