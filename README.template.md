@@ -43,12 +43,11 @@
     </a>
   </div>
 </p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
 <div align=center>
   <img src="https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg">
 </div>
-<br>
 <br>
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
