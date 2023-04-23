@@ -24,10 +24,11 @@
 </a>
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
-It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
-
-<p> - Dwight Schrute</p>
+> "office_quote.quote"
+>
+> <p>- office_quote.character</p>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
+
 
 Check back at the top of the hour for a new quote!
