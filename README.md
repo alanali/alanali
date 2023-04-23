@@ -24,7 +24,7 @@
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
 <blockquote>
-The principle is sound. To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this… maybe they have something against living forever.
+At first, I drove myself crazy thinking about the things I should have done differently. I never should have played that joke on Erin. I never should have hollowed out this damn pumpkin in the first place. Then I realized that I was being silly. I mean, the pumpkin should rot off of my head in a month or two. Right?
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
@@ -33,3 +33,6 @@ _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quo
 
 
 Check back every day for a new quote!
+
+
+![Snake animation](https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg)
