@@ -23,9 +23,9 @@
 
 <h3 align="left">🏢 Quote of the Hour: The Office</h3>
 <blockquote>
-My mind is going a mile an hour.
+Jim couldn’t land me in a thousand years.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
