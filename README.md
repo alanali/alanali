@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-People will never be replaced by machines. In the end, life and business are about human connections. And computers are about trying to murder you in a lake. And to me the choice is easy.
+There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
