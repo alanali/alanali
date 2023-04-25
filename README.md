@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’m sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans!
+Any man who says he totally understands women is a fool. Because they are un-understandable.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
