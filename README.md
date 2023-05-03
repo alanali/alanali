@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Dwight, you ignorant slut!
+I hate so much about the things you choose to be.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
