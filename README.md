@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
+I wonder if king-sized sheets are called presidential-sized in England.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
