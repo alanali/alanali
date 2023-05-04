@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I say dance, they say ‘How high?'
+I am running away from my responsibilities. And it feels good.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
