@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Two queens at casino night. I am gonna drop a deuce on everybody.
+I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
