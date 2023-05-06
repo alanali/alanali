@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Jim and I are great friends. We hang out a ton, mostly at work.
+Two queens at casino night. I am gonna drop a deuce on everybody.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
