@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
+Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
