@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
