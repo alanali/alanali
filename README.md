@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I'm going to do something I've never done at this job before - try.
+Bears, Beets, Battlestar Galactica.
   <p></p>
 <p>- Jim Halpert</p>
 </blockquote>
