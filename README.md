@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
+I am Beyonce, always.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
