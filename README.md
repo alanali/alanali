@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hey, what has two thumbs and hates Todd Packer? This guy.
+Two queens at casino night. I am gonna drop a deuce on everybody.
   <p></p>
-<p>- Jim Halpert</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
