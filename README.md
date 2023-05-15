@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-A real man swallows his vomit when a lady is present.
+Ah, humor. I have it, too.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
