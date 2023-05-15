@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
+A real man swallows his vomit when a lady is present.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
