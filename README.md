@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Love is all you need? False, you need water and rations.
+In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
