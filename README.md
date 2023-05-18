@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+You are as creepy as a real serial killer. For real.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
