@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
+No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
