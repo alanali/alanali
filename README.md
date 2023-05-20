@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+There’s no such thing as an appropriate joke. That’s why it’s called a joke.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
