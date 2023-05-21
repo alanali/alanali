@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I think green is kind of whorish.
+They say on your deathbed you never wish you spent more time at the office — but I will.
   <p></p>
-<p>- Angela Martin</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
