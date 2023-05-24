@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Jim told me you could buy gaydar online.
+I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Angela Martin</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
