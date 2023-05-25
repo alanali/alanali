@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The people that you work with are, when you get down to it, your very best friends.
+I want you to rub butter on my foot… Pam, please? I have Country Crock.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
