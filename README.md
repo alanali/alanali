@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
+They say on your deathbed you never wish you spent more time at the office — but I will.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
