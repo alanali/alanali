@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am faster than 80 percent of all snakes.
+You couldn’t handle my undivided attention.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
