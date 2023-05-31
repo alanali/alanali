@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Dwight, you ignorant slut!
+I’ve got to make sure that YouTube comes down to tape this.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
