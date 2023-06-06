@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Oh, you know that line on the top of the shrimp? That’s feces.
+Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
