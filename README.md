@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+I would not miss it for the world. But if something else came up, I would definitely not go.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
