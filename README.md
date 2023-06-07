@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
+Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
