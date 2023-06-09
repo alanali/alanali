@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
+Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
