@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I have cause. It’s beCAUSE I hate him.
+It takes an advanced sense of humor. I don’t expect everyone to understand.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
