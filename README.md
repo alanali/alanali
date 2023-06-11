@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
