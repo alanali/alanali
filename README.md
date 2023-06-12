@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Why are all these people here? There’s too many people on this earth. We need a new plague.
+An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
