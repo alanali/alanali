@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
+You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Pam Beesly</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
