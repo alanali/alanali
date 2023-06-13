@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The only time I set the bar low is for limbo.
+I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
