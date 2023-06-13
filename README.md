@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-An office is not for dying. An office is a place for living life to the fullest, to the max, to… an office is a place where dreams come true.
+The only time I set the bar low is for limbo.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
