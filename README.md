@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Who is Justice Beaver?
+OK, see you later, Pan.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
