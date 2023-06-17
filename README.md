@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
