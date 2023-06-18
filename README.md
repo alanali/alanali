@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
