@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You cheated on me? When I specifically asked you not to?
+I find the mystery genre disgusting. I hate being titillated.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Angela Martin</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
