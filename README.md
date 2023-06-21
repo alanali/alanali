@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Dwight, you ignorant slut.
+If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
