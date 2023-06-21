@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
