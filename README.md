@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
