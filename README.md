@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+Bread is the paper of the food industry. You write your sandwich on it.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
