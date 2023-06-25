@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Do you think that doing alcohol is cool?
+Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
