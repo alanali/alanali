@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I talk a lot, so I've learned to tune myself out.
+Do you think that doing alcohol is cool?
   <p></p>
-<p>- Kelly Kapoor</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
