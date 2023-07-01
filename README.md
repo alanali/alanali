@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Can’t a guy just buy some bagels for his friends so they’ll owe him a favor which he can use to get someone fired who stole a co-manager position from him anymore? Jeez. When did everyone get so cynical?
+To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
