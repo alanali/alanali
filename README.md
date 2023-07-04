@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+The worst thing about prison was the dementors.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
