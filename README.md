@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Sorry I annoyed you with my friendship.
+It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
