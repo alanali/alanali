@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Sorry I annoyed you with my friendship.
+There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
