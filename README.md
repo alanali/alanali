@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'
+I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
   <p></p>
-<p>- Kelly Kapoor</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
