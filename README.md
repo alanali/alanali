@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+Dwight, you ignorant slut.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
