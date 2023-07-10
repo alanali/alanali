@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
