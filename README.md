@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Dwight, you ignorant slut.
+I would not miss it for the world. But if something else came up, I would definitely not go.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
