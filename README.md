@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Stanley Hudson</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
