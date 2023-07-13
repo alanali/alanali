@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-We’re all homos. Homo… Sapiens.
+The worst thing about prison was the dementors.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
