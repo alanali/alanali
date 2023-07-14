@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The people that you work with are, when you get down to it, your very best friends.
+You are as creepy as a real serial killer. For real.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
