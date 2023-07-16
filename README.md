@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
