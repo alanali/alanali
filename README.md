@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
+You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
