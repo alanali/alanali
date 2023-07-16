@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Oh, you’re paying way too much for worms. Who’s your worm guy?
+I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
