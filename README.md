@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-All you need is love? False. The four basic human necessities are air, water, food, and shelter.
+And I misspelled, in front of the entire school, the word ‘failure.’
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
