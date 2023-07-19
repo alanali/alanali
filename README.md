@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Not enough for me? You are everything.
+Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
   <p></p>
-<p>- Jim Halpert</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
