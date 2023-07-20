@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Will I get over it? Mmm. No. But life goes on.
+I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
