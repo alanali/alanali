@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Michael will be related to this baby through... delusion.
+Make friends first, make sales second, make love third. In no particular order.
   <p></p>
-<p>- Jim Halpert</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
