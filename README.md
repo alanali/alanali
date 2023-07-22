@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
+Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
