@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
+I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
