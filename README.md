@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I would not miss it for the world. But if something else came up, I would definitely not go.
+Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
