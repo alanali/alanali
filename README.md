@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+I’m gonna intimidate him, OK? Watch this… So anyways, she said that is the biggest penis I have ever seen, and I said I know! That’s why I brought you to the penis museum, where tickets are a thousand dollars.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
