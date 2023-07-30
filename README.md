@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You better learn your rules. If you don’t, you’ll be eaten in your sleep.
+I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Pam Beesly</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
