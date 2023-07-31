@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+Well, happy birthday, Jesus. Sorry that your party’s so lame.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
