@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-OK, see you later, Pan.
+All you need is love? False. The four basic human necessities are air, water, food, and shelter.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
