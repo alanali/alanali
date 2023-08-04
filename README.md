@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You don’t know me, you’ve just seen my penis.
+And I’m optimistic because every day I get a little more desperate.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
