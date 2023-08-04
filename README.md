@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
+Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
