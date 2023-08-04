@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+I have cause. It’s beCAUSE I hate him.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
