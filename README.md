@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+Let’s put a smile on that face.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
