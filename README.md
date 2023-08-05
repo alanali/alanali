@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Let’s put a smile on that face.
+The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
