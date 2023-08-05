@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I’m optimistic because every day I get a little more desperate.
+I want you to rub butter on my foot… Pam, please? I have Country Crock.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
