@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
+Oh, you’re paying way too much for worms. Who’s your worm guy?
   <p></p>
-<p>- Michael Scott</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
