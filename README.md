@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I would not miss it for the world. But if something else came up, I would definitely not go.
+I saved a life. My own. Am I a hero?… I really can’t say, but yes!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
