@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Yes, it is true. I, Michael Scott, am signing up with an online dating service. Thousands of people have done it, and I am going to do it. I need a username. And I have a great one. Little Kid Lover. That way people will know exactly where my priorities are at.
+I would not miss it for the world. But if something else came up, I would definitely not go.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
