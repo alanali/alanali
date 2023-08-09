@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
+Today, smoking is going to save lives.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
