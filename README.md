@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You cheated on me? When I specifically asked you not to?
+You miss 100 percent of the shots you don’t take. Wayne Gretzky.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
