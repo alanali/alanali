@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-When I was five, I imagined that there was such a thing as a unicorn. And this was before I had even heard of one, or seen one. I just drew a picture, of a horse, that could fly over rainbows, and had a huge spike in its head. I was five! Five years old. Couldn’t even talk yet.
+As it turns out, you can’t just check someone into rehab against their will. They have to do it voluntarily. They have to hit rock bottom. So, I think I know what I need to do at this point. I need to find ways to push Meredith to the bottom. Um. I think I can do it.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
