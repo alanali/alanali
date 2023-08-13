@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
