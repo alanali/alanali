@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am Beyonce, always.
+That has sort of an oaky afterbirth.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
