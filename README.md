@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
