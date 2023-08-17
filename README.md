@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I love my employees even though I hit one of you with my car.
+There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
