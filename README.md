@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+You cheated on me? When I specifically asked you not to?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
