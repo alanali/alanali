@@ -45,15 +45,15 @@
 <br>
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
 <div align=center>
-  <img src="https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg">
+  <img src="https://github.com/alanali/alanali/blob/output///github-contribution-grid-snake.svg">
 </div>
 <br>
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
+Pizza: the great equalizer.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
