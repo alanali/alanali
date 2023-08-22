@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-All you need is love? False. The four basic human necessities are air, water, food, and shelter.
+Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
