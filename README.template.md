@@ -45,7 +45,7 @@
 <br>
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
 <div align=center>
-  <img src="https://github.com/alanali/alanali/blob/output/github-contribution-snake.svg">
+  <img src="https://github.com/alanali/alanali/blob/output//github-contribution-grid-snake-dark.svg?palette=github-dark.svg">
 </div>
 <br>
 
