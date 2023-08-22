@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+Bears are more afraid of you than you are of them? You obviously aren’t scared enough.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
