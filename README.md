@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
