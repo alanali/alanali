@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+It just seems awfully mean. But sometimes, the ends justify the mean.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
