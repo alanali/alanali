@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
+The worst thing about prison was the dementors.
   <p></p>
-<p>- Pam Beesly</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
