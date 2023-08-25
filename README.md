@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I saved a life. My own. Am I a hero?… I really can’t say, but yes!
+I’m not superstitious but I am a little stitious.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
