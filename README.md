@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hold me! Cradle my hand!
+You know a human can go on living for several hours after being decapitated.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
