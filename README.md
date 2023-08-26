@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I… declare…. bankruptcy!
+It’s not like booze ever killed anyone.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
