@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
