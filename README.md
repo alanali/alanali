@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I always wondered how they picked the person to die. I’d be good at picking the person.
+Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
