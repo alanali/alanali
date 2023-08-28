@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
+Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
