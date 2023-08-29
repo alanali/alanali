@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
+No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
