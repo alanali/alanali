@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
+I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
