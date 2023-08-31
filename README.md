@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
+Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
