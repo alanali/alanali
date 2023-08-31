@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+Bread is the paper of the food industry. You write your sandwich on it.
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
