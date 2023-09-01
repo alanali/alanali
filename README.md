@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
+OK, see you later, Pan.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
