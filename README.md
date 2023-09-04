@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It takes an advanced sense of humor. I don’t expect everyone to understand.
+The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
