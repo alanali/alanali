@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
+Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
