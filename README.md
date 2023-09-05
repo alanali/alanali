@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Now, you may look around and see two groups here. White-collar, blue-collar. But I don’t see it that way. And you know why not? Because I am collar-blind.
+Not enough for me? You are everything.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Jim Halpert</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
