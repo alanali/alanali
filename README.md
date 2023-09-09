@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Who is Justice Beaver?
+And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
