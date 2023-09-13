@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
+There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
