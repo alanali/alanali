@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
+Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
