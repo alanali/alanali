@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Oh, you’re paying way too much for worms. Who’s your worm guy?
+Sorry I annoyed you with my friendship.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Andy Bernard</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
