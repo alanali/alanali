@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s never too early for ice cream.
+I talk a lot, so I've learned to tune myself out.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Kelly Kapoor</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
