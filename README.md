@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I’m optimistic because every day I get a little more desperate.
+Hey, what has two thumbs and hates Todd Packer? This guy.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Jim Halpert</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
