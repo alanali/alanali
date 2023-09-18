@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+Will I get over it? Mmm. No. But life goes on.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
