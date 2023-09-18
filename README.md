@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+Guess what, I have flaws. What are they? Oh, I don’t know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I’ll hit somebody with my car. So sue me.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
