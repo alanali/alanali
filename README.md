@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Will I get over it? Mmm. No. But life goes on.
+To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
