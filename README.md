@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
+There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
