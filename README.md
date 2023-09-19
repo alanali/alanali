@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Sorry I annoyed you with my friendship.
+OK, too many different words from coming at me from too many different sentences.
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
