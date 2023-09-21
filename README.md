@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+Presents are the best way to show how much you care. It’s a tangible thing you can point at and say, ‘Hey man, I love you. This many dollars worth.’
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
