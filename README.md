@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Love is all you need? False, you need water and rations.
+Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
