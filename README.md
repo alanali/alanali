@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s not like booze ever killed anyone.
+I saved a life. My own. Am I a hero?… I really can’t say, but yes!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
