@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
+In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
