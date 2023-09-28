@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Will I get over it? Mmm. No. But life goes on.
+It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
