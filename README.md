@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
+I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
