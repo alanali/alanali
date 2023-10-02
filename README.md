@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Love is all you need? False, you need water and rations.
+How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
