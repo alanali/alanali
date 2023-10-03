@@ -51,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
