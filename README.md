@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
+I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
