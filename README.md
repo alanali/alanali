@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
+You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
