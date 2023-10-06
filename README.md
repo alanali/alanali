@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
+Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
