@@ -28,9 +28,6 @@
 <a href="https://github.com/alanali/alanali.github.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=panda" />
 </a>
-<a href="https://github.com/alanali/Adversary-Graph-RL">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=Adversary-Graph-RL&show_icons=true&theme=panda" />
-</a>
 <br>
 <br>
 <br>
@@ -54,9 +51,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I'm always thinking one step ahead, like a carpenter who makes stairs.
+Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
