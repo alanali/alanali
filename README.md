@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-All that singing got in the way of some perfectly good murders.
+Will I get over it? Mmm. No. But life goes on.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
