@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’ve got to make sure that YouTube comes down to tape this.
+Sometimes you have to take a break from being the kind of boss that’s always trying to teach people things. Sometimes you just have to be the boss of dancing.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
