@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Bread is the paper of the food industry. You write your sandwich on it.
+Through concentration, I can raise and lower my cholesterol at will.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
