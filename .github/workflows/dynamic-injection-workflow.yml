@@ -51,7 +51,7 @@ jobs:
           git add .
           git config --global user.name "Alana Li"
           git config --global user.email "ruiruialana@gmail.com"
-          git commit -m "[Automated] README updated with new Office quote!"
+          git diff-index --quiet HEAD || git commit -m "[Automated] README updated with new Office quote!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
