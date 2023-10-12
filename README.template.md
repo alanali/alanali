@@ -28,6 +28,9 @@
 <a href="https://github.com/alanali/alanali.github.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=panda" />
 </a>
+<a href="https://github.com/alanali/Adversary-Graph-RL">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=Adversary-Graph-RL&show_icons=true&theme=panda" />
+</a>
 <br>
 <br>
 <br>
