@@ -51,7 +51,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-There are three things you never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season.
+Bread is the paper of the food industry. You write your sandwich on it.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
