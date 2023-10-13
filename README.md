@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Any man who says he totally understands women is a fool. Because they are un-understandable.
+I am running away from my responsibilities. And it feels good.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
