@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
+Any man who says he totally understands women is a fool. Because they are un-understandable.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
