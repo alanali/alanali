@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+Before I do anything I ask myself, ‘Would an idiot do that?’ And if the answer is yes, I do not do that thing.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
