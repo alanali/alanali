@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I had a great summer. I got West Nile virus, lost a ton of weight. Then I went back to the lake. And I stepped on a piece of glass in the parking lot, which hurt. That got infected. Even though I peed on it.
+They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
