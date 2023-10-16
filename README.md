@@ -25,46 +25,26 @@
 <br>
 
 <h2 align="center">👩‍💻 Repositories 👩‍💻</h2>
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/alanali/alanali.github.io">
-        <img style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=panda" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alanali/Adversary-Graph-RL">
-        <img style="margin: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=Adversary-Graph-RL&show_icons=true&theme=panda" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/alanali/alanali.github.io">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=panda" />
+</a>
+<a href="https://github.com/alanali/Adversary-Graph-RL">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=Adversary-Graph-RL&show_icons=true&theme=panda" />
+</a>
+<br>
 <br>
 <br>
 
 <h2 align="center">📈 Github Stats 📈</h2>
 
-<table style="border: none;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=panda" alt="alanali" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=panda" alt="alanali" />
-    </td>
-  </tr>
-</table>
+|     |     |
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=panda" alt="alanali" />  |  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=panda" alt="alanali" />
 
-<table style="border: none;">
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=panda" alt="alanali" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=panda&utcOffset=-7" alt="alanali" />
-    </td>
-  </tr>
-</table>
+|     |     |
+:-------------------------:|:-------------------------:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=panda)  |  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=panda&utcOffset=-7)
+
 <br>
 <h3 align="center">🐍 Contribution Snake 🐍</h3>
 <div align=center>
@@ -74,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
+I'm always thinking one step ahead, like a carpenter who makes stairs.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Andy Bernard</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
