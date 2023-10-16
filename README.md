@@ -59,6 +59,6 @@ I'm always thinking one step ahead, like a carpenter who makes stairs.
 <p>- Andy Bernard</p>
 </blockquote>
 
-_Quote requested from [The Office API](https://github.com/AkashRajpurohit/the-office-api#api-contract-)_
+_Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/)_
 
 Check back every day for a new quote!
