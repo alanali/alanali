@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
+Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
