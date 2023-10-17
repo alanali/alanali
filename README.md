@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,vscode,figma" />
   </a>
 </p>
 <div align=center>
@@ -53,11 +54,12 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I'm always thinking one step ahead, like a carpenter who makes stairs.
+And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
-_Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/)_
+_Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
+
 
 Check back every day for a new quote!
