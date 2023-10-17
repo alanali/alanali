@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
