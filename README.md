@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
+Make friends first, make sales second, make love third. In no particular order.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
