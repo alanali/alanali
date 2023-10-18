@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+Why are all these people here? There’s too many people on this earth. We need a new plague.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
