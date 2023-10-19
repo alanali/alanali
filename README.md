@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Why are all these people here? There’s too many people on this earth. We need a new plague.
+Those who can’t farm, farm celery.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
