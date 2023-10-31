@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor’s dog.
+When I die, I want to be frozen. And if they have to freeze me in pieces, so be it. I will wake up stronger than ever, because I will have used that time to figure out exactly why I died. And what moves I could have used to defend myself better now that I know what hold he had me in.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
