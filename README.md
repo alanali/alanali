@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
+You know a human can go on living for several hours after being decapitated.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
