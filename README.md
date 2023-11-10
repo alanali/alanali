@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
+Boy, have you lost your mind, 'cause I will help you find it!
   <p></p>
-<p>- Michael Scott</p>
+<p>- Stanley Hudson</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
