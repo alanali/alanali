@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Boy, have you lost your mind, 'cause I will help you find it!
+I wish I could menstruate. If I could menstruate, I wouldn’t have to deal with idiotic calendars anymore. I’d just be able to count down from my previous cycle. Plus, I’d be more in tune with the moon and the tides.
   <p></p>
-<p>- Stanley Hudson</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
