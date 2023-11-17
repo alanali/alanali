@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Identity theft is not a joke, Jim! Millions of families suffer every year.
+Ah, humor. I have it, too.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
