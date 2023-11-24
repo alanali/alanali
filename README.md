@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I think green is kind of whorish.
+I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
   <p></p>
-<p>- Angela Martin</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
