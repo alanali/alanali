@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You know a human can go on living for several hours after being decapitated.
+I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
   <p></p>
 <p>- Creed Bratton</p>
 </blockquote>
