@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You only live once? False. You live every day. You only die once.
+I love catching people in the act. That’s why I always whip open doors.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
