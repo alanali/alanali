@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
