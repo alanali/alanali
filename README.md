@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
