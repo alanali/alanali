@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I’m optimistic because every day I get a little more desperate.
+I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Angela Martin</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
