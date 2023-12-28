@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s Britney, bitch.
+I love my employees even though I hit one of you with my car.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
