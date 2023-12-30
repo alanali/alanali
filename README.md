@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+I really should have a Tweeter account.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
