@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am better than you have ever been or ever will be.
+You couldn’t handle my undivided attention.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
