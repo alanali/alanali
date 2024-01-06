@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
