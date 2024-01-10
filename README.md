@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I bought those boat tickets the day I saw that You Tube video. I knew we'd need a back-up plan. The boat was actually Plan C. The church was Plan B and Plan A was marrying her a long, long time ago. Pretty much the day I met her.
+Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
   <p></p>
-<p>- Jim Halpert</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
