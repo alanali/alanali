@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
+I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
