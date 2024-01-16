@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
+I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
