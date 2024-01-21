@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
+Love is all you need? False, you need water and rations.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
