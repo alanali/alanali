@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-If I can’t scuba, then what’s this all been about? What am I working toward?
+I want you to rub butter on my foot… Pam, please? I have Country Crock.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
