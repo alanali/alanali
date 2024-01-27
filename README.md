@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+Of course, martial arts training is relevant… Uh, I know about a billion Asians that would beg to differ… You know what, you can go to hell, and I will see you there. Burning!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
