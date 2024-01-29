@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-To avoid illness, expose yourself to germs, enabling your immune system to develop antibodies. I don’t know why everyone doesn’t do this. Maybe they have something against living forever.
+I’m screaming! I’m screaming! I’m screaming! Aah! Numb me up! I want anesthesia!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
