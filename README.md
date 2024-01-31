@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I would not miss it for the world. But if something else came up, I would definitely not go.
+You don’t know me, you’ve just seen my penis.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
