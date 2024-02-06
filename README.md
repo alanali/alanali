@@ -54,7 +54,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I have cause. It’s beCAUSE I hate him.
+Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
