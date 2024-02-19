@@ -54,9 +54,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The hand that reaches from the grave to grip your throat is the strong hand you want on the wheel.
+I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
