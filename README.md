@@ -31,6 +31,9 @@
 <a href="https://github.com/alanali/Adversary-Graph-RL">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=Adversary-Graph-RL&show_icons=true&theme=panda" />
 </a>
+<a href="https://github.com/alanali/WillYouBeMyValentine">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=WillYouBeMyValentine&show_icons=true&theme=panda" />
+</a>
 <br>
 <br>
 <br>
