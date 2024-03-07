@@ -7,8 +7,7 @@
   🎓 Computer Science + Data Science at 🐻 <a href="https://www.berkeley.edu/"> UC Berkeley</a>
   <!--- 🧑‍💼 I’m currently working as  <a href="">  </a> --->
 </p>
-  
-<!--- <p align="center"> <img src="https://komarev.com/ghpvc/?username=alanali&label=Profile%20views&color=0e75b6&style=flat" alt="alanali" /> </p> --->
+
 <br>
 
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
@@ -22,6 +21,7 @@
 <div align=center>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" width="40%" /></p>
 </div>
+
 <br>
 
 <h2 align="center">💻 Recent Repositories 💻</h2>
@@ -34,8 +34,7 @@
 <a href="https://github.com/alanali/WillYouBeMyValentine">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=WillYouBeMyValentine&show_icons=true&theme=dracula&hide_border=true" width="49.6%" />
 </a>
-<br>
-<br>
+
 <br>
 
 <h2 align="center">📈 Github Stats 📈</h2>
@@ -51,14 +50,24 @@
 </a>
 
 <br>
+
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+<div align=center>
+  <img src="https://github.com/alanali/alanali/blob/output///github-contribution-grid-snake.svg">
+</div>
+
+<br>
+
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It is St. Patrick’s Day. And here in Scranton, that is a huge deal. It is the closest that the Irish will ever get to Christmas.
+OK. When the baby emerges, mark it secretly in a kind of a mark that only you could recognize and no baby snatcher could ever copy.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
 
 
 Check back every day for a new quote!
+
+<br>
