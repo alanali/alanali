@@ -11,7 +11,7 @@
 <!--- <p align="center"> <img src="https://komarev.com/ghpvc/?username=alanali&label=Profile%20views&color=0e75b6&style=flat" alt="alanali" /> </p> --->
 <br>
 
-<h2 align="center">🔥 Languages+Tools 🔥</h2>
+<h2 align="center">🔥 Languages and Tools 🔥</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,38 +20,37 @@
   </a>
 </p>
 <div align=center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=panda" alt="alanali" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" width="40%" /></p>
 </div>
 <br>
 
-<h2 align="center">👩‍💻 Repositories 👩‍💻</h2>
+<h2 align="center">💻 Repositories 💻</h2>
 <a href="https://github.com/alanali/alanali.github.io">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=panda" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=alanali.github.io&show_icons=true&theme=dracula&hide_border=true" width="49.6%" />
 </a>
 <a href="https://github.com/alanali/Adversary-Graph-RL">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=Adversary-Graph-RL&show_icons=true&theme=panda" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=Adversary-Graph-RL&show_icons=true&theme=dracula&hide_border=true" width="49.6%" />
+</a>
+<a href="https://github.com/alanali/WillYouBeMyValentine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alanali&repo=WillYouBeMyValentine&show_icons=true&theme=dracula&hide_border=true" width="49.6%" />
 </a>
 <br>
 <br>
 <br>
 
 <h2 align="center">📈 Github Stats 📈</h2>
-
-|     |     |
-:-------------------------:|:-------------------------:
-<img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=panda" alt="alanali" />  |  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=panda" alt="alanali" />
-
-|     |     |
-:-------------------------:|:-------------------------:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=panda)  |  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=panda&utcOffset=-7)
+<a href="https://github.com/alanali/WillYouBeMyValentine">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula&hide_border=true" width="48.2%" />
+</a><a href="https://github.com/alanali/WillYouBeMyValentine">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula&hide_border=true" width="51.3%" />
+</a>
+<a href="https://github.com/alanali/WillYouBeMyValentine">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=dracula" width="66.8%" />
+</a><a href="https://github.com/alanali/WillYouBeMyValentine">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=dracula&utcOffset=-7" width="32.6%" />
+</a>
 
 <br>
-<h3 align="center">🐍 Contribution Snake 🐍</h3>
-<div align=center>
-  <img src="https://github.com/alanali/alanali/blob/output///github-contribution-grid-snake.svg">
-</div>
-<br>
-
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
 Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.
