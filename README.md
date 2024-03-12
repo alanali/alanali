@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
+They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
