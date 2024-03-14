@@ -39,9 +39,9 @@
 
 <h2 align="center">📈 Github Stats 📈</h2>
 <a href="https://github.com/alanali/WillYouBeMyValentine">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula&hide_border=true" width="48.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula&hide_border=true" width="48.4%" />
 </a><a href="https://github.com/alanali/WillYouBeMyValentine">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula&hide_border=true" width="51.3%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula&hide_border=true" width="51%" />
 </a>
 <a href="https://github.com/alanali/WillYouBeMyValentine">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=dracula" width="66.8%" />
@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I had a great summer. I got West Nile virus, lost a ton of weight. Then I went back to the lake. And I stepped on a piece of glass in the parking lot, which hurt. That got infected. Even though I peed on it.
+I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
