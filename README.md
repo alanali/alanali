@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I find the mystery genre disgusting. I hate being titillated.
+Sorry I annoyed you with my friendship.
   <p></p>
-<p>- Angela Martin</p>
+<p>- Andy Bernard</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
