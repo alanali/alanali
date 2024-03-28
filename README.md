@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I never thought I’d say this, but I think I ate too much bone marrow.
+It’s not effeminate. It’s festive.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
