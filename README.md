@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
+The rules of shotgun are very simple and very clear. The first person to shout ‘shotgun’ when you’re within sight of the car gets the front seat. That’s how the game’s played. There are no exceptions for someone with a concussion.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
