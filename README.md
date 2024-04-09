@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Two queens at casino night. I am gonna drop a deuce on everybody.
+This day is BANANAS! B-A-N-A-N-A-S!
   <p></p>
-<p>- Michael Scott</p>
+<p>- Kelly Kapoor</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
