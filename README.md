@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
+I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
