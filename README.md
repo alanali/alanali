@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
+Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
