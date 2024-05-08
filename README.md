@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+I’m not offended by homosexuality. In the ’60s I made love to many, many women, often outdoors, in the mud and the rain… and it’s possible a man slipped in. (S<em>hrugs</em>) There’d be no way of knowing.
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
