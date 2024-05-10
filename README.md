@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
+Hate to see you leave, but love to watch you go. ‘Cause of your butt.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
