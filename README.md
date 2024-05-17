@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I saved a life. My own. Am I a hero?… I really can’t say, but yes!
+There’s no such thing as an appropriate joke. That’s why it’s called a joke.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
