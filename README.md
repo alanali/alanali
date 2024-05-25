@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+As a farmer, I know that when an animal is sick, sometimes the right thing to do is put it out of its misery. With the electricity we are using to keep Meredith alive, we could power a small fan for two days. You tell me what’s unethical.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
