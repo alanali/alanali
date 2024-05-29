@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Fortunately, my feelings regenerate at twice the speed of a normal man’s.
+Hold me! Cradle my hand!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
