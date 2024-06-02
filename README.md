@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+I… declare…. bankruptcy!
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
