@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
