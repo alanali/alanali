@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Jim couldn’t land me in a thousand years.
+And I misspelled, in front of the entire school, the word ‘failure.’
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
