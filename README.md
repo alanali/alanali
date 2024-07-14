@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Let’s put a smile on that face.
+I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
