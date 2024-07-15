@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+Will I get over it? Mmm. No. But life goes on.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
