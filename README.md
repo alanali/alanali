@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Will I get over it? Mmm. No. But life goes on.
+It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
