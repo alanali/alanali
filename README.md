@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+Abraham Lincoln once said that, ‘If you’re a racist, I will attack you with the North.’ And those are the principles that I carry with me in the workplace.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
