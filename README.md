@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+You don’t know me, you’ve just seen my penis.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
