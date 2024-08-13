@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+I'm always thinking one step ahead, like a carpenter who makes stairs.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Andy Bernard</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
