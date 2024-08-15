@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
