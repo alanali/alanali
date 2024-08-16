@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
+No, I’m not going to tell them about the downsizing. If a patient has cancer, you don’t tell them.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
