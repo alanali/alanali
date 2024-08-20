@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
+D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
