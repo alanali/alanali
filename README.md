@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
