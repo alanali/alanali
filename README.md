@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
+It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
