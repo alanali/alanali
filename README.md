@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.
+It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
