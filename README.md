@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran killed twenty men and spent the rest of the war in an allied prison camp. My father battled blood pressure and obesity all his life. Different kind of fight.
+I am faster than 80 percent of all snakes.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
