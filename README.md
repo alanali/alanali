@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Any man who says he totally understands women is a fool. Because they are un-understandable.
+Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
