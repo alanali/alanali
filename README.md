@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Yes, I have acted before. I was in a production of Oklahoma! In the seventh grade. I played the part of Mutey the Mailman. They had too many kids, so they made up roles like that. I was good.
+I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
