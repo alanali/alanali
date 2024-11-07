@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-When someone smiles at me, all I see is a chimpanzee begging for its life.
+Schrutes don’t celebrate birthdays, idiot. It started as a depression-era practicality and then, moved on to an awesome tradition that I look forward to every year!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
