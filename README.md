@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-‘R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not mukduk’.
+OK. When the baby emerges, mark it secretly in a kind of a mark that only you could recognize and no baby snatcher could ever copy.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
