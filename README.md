@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+Sorry I annoyed you with my friendship.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Andy Bernard</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
