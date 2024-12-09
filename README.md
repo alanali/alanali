@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Sorry I annoyed you with my friendship.
+Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
   <p></p>
-<p>- Andy Bernard</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
