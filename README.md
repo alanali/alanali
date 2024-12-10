@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+Toby is in HR, which technically means he works for corporate. So he’s not really a part of our family. Also, he’s divorced, so he’s not really a part of his family.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
