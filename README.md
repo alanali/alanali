@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
+Make friends first, make sales second, make love third. In no particular order.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
