@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Make friends first, make sales second, make love third. In no particular order.
+I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
