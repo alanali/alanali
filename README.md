@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I saved a life — my own.
+Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
