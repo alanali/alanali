@@ -60,9 +60,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-In the wild, there is no healthcare. Healthcare is oh, I broke my leg! A lion comes and eats you, you’re dead. Well, I’m not dead, I’m the lion. You’re dead!
+Michael will be related to this baby through... delusion.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Jim Halpert</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
