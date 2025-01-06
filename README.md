@@ -60,7 +60,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Occasionally, I’ll hit someone with my car. So sue me.
+Two queens at casino night. I am gonna drop a deuce on everybody.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
