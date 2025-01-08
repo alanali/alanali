@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=3000&pause=200&color=FF6E96&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Alana+Li" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=3000&pause=200&color=FF6E96&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Alana+Li" alt="Typing SVG" />
 </h1>
 <p align="center">
   Programmer 👩‍💻, Learner 🧠, & Gamer 🎮 from California
@@ -13,13 +13,11 @@
 <h2 align="center">🔥 Languages and Tools 🔥</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,html,vscode,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,html,vscode,figma" />
 </p>
 <div align=center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" width="40%" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" width="40%" /></p>
 </div>
 
 <br>
@@ -38,16 +36,10 @@
 <br>
 
 <h2 align="center">📈 Github Stats 📈</h2>
-<a href="https://github.com/alanali/WillYouBeMyValentine">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula&hide_border=true" width="48.4%" />
-</a><a href="https://github.com/alanali/WillYouBeMyValentine">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanali&show_icons=true&theme=dracula&hide_border=true" width="51%" />
-</a>
-<a href="https://github.com/alanali/WillYouBeMyValentine">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=dracula" width="66.8%" />
-</a><a href="https://github.com/alanali/WillYouBeMyValentine">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alanali&theme=dracula&utcOffset=-7" width="32.6%" />
-</a>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula&hide_border=true" width="65%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=dracula" width="65%" />
+</div>
 
 <br>
 
@@ -60,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hold me! Cradle my hand!
+I enjoy having breakfast in bed. I like waking up to the smell of bacon, sue me. And since I don’t have a butler, I do it myself. So, most nights before I go to bed, I will lay six strips of bacon out on my George Foreman Grill. Then I go to sleep. When I wake up, I plug in the grill, I go back to sleep again. Then I wake up to the smell of crackling bacon.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
