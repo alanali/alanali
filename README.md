@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The only time I set the bar low is for limbo.
+If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
