@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Any man who says he totally understands women is a fool. Because they are un-understandable.
+The only time I set the bar low is for limbo.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
