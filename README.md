@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The only time I set the bar low is for limbo.
+I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Pam Beesly</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
