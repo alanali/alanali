@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
