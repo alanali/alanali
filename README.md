@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
+It’s not like booze ever killed anyone.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
