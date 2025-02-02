@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Who is Justice Beaver?
+In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
