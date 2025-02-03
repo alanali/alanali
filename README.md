@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
