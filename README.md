@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Yes, it is true. I, Michael Scott, am signing up with an online dating service. Thousands of people have done it, and I am going to do it. I need a username. And I have a great one. Little Kid Lover. That way people will know exactly where my priorities are at.
+I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
