@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I know it’s illegal in Pennsylvania, but it’s for charity, and I consider myself a great philanderer.
+It’s Britney, bitch.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
