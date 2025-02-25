@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
