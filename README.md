@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I feel God in this Chili’s tonight.
+That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
   <p></p>
-<p>- Pam Beesly</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
