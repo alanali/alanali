@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+Any man who says he totally understands women is a fool. Because they are un-understandable.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
