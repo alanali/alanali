@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+Boy, have you lost your mind, 'cause I will help you find it!
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Stanley Hudson</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
