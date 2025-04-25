@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I live by one rule: No office romances, no way. Very messy, inappropriate… no. But, I live by another rule: Just do it… Nike.
+That has sort of an oaky afterbirth.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
