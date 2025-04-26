@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-That has sort of an oaky afterbirth.
+I guess the attitude that I’ve tried to create here is that I’m a friend first and a boss second and probably an entertainer third.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
