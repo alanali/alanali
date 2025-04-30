@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Fortunately, my feelings regenerate at twice the speed of a normal man’s.
+I think green is kind of whorish.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Angela Martin</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
