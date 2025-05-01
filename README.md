@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I think green is kind of whorish.
+When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
   <p></p>
-<p>- Angela Martin</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
