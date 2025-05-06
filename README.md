@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-If you don’t like it, Stanley, you can go to the back of the bus, or the front of the bus, or drive the bus.
+Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
