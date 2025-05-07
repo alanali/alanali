@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+OK, too many different words from coming at me from too many different sentences.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
