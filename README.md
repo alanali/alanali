@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Today, smoking is going to save lives.
+People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
