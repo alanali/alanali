@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You better learn your rules. If you don’t, you’ll be eaten in your sleep.
+Jim told me you could buy gaydar online.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
