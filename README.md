@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am better than you have ever been or ever will be.
+All that singing got in the way of some perfectly good murders.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
