@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You know a human can go on living for several hours after being decapitated.
+It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
   <p></p>
-<p>- Creed Bratton</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
