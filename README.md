@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
+Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
