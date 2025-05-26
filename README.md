@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
