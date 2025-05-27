@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
+Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
