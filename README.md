@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Number eight. Learn how to take off a woman’s bra: You just twist your hand until something breaks.
+That’s what she said!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
