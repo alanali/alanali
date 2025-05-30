@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Always the Padawan, never the Jedi.
+Ah, humor. I have it, too.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
