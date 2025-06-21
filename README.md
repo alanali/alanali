@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It takes an advanced sense of humor. I don’t expect everyone to understand.
+That’s what she said!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
