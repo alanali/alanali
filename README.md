@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-That’s what she said!
+I have cause. It’s beCAUSE I hate him.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
