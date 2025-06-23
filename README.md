@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I have cause. It’s beCAUSE I hate him.
+I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
