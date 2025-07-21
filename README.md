@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+I’m not usually the butt of the joke. I’m usually the face of the joke.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
