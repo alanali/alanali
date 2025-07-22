@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’m not usually the butt of the joke. I’m usually the face of the joke.
+Well, well, well, how the turntables.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
