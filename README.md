@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Well, well, well, how the turntables.
+I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
