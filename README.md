@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
