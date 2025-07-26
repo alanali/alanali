@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hold me! Cradle my hand!
+Do I have a date for Valentine’s Day? Yes. February 14th.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
