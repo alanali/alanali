@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
