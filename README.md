@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-That has sort of an oaky afterbirth.
+Saw Inception. Or at least I dreamt I did.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
