@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I want today to be a beautiful memory that the staff and I share after I have passed on to New York. And if Toby is a part of it, then it’ll suck.
+About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
