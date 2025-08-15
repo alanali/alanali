@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You miss 100 percent of the shots you don’t take. Wayne Gretzky.
+Saw Inception. Or at least I dreamt I did.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
