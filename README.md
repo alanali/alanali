@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am running away from my responsibilities. And it feels good.
+Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
