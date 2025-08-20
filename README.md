@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
+You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
