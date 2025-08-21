@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
+Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
