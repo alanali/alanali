@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+Is there something besides ‘Mexican’ you prefer to be called? Something less offensive?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
