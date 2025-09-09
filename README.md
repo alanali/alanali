@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
