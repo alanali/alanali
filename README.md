@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Pangolin&size=30&duration=3000&pause=200&color=FF6E96&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Alana+Li" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <!--- Programmer 👩‍💻, Learner 🧠, & Gamer 🎮 from California --->
+  Programmer 👩‍💻, Learner 🧠, & Gamer 🎮 from California
   <br>
   🎓 Computer Science + Data Science at 🐻 <a href="https://www.berkeley.edu/"> UC Berkeley</a>
   <!--- 🧑‍💼 I’m currently working as  <a href="">  </a> --->
@@ -10,15 +10,14 @@
 
 <br>
 
-<h2 align="center">🔥 Languages 🔥</h2>
-<!---
+<h2 align="center">🔥 Languages and Tools 🔥</h2>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,html,vscode,figma" />
 </p>
---->
 <div align=center>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" width="35%" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanali&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" width="40%" /></p>
 </div>
 
 <br>
@@ -38,7 +37,7 @@
 
 <h2 align="center">📈 Github Stats 📈</h2>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alanali&show_icons=true&theme=dracula&hide_border=true" width="65%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanali&theme=dracula" width="65%" />
 </div>
 
@@ -53,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They say that no man is an island. False! I am an island and this island is volcanic. And it is about to erupt. With the molten hot lava of strategy!
+Did I stutter?
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Stanley Hudson</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
