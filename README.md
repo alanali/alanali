@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
+Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
