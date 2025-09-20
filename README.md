@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Welcome to the Hotel Hell. Check-in time is now. Check-out time is never.
+I’ve been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
