@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I’m optimistic because every day I get a little more desperate.
+I am one of the few people who looks hot eating a cupcake.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Kelly Kapoor</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
