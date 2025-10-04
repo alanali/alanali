@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-The only time I set the bar low is for limbo.
+They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
