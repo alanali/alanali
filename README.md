@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
