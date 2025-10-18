@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
+Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
