@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-How is it possible that in five years, I’ve had two engagements and only one chair?
+Do I have a date for Valentine’s Day? Yes. February 14th.
   <p></p>
-<p>- Pam Beesly</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
