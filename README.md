@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Do I have a date for Valentine’s Day? Yes. February 14th.
+It’s better to be hurt by someone you know accidentally, than by a stranger on purpose.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
