@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I love catching people in the act. That’s why I always whip open doors.
+You think you’re excited? You should feel my nipples. Boing!
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
