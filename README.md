@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I hate so much about the things you choose to be.
+I saved a life. My own. Am I a hero?… I really can’t say, but yes!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
