@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
+Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
