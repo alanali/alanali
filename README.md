@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+Bread is the paper of the food industry. You write your sandwich on it.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
