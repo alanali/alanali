@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I love inside jokes. I hope to be a part of one someday.
+I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
