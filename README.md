@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-OK, too many different words from coming at me from too many different sentences.
+I run a small fake ID company from my car with a laminating machine that I swiped from the Sheriff’s station.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
