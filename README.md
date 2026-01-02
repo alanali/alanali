@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I’m not gonna cry over it. I did that in the car on the way home.
+Make friends first, make sales second, make love third. In no particular order.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
