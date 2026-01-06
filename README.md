@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Here it is, heart of New York City, Times Square… named for the good times you have when you’re in it.
+I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
