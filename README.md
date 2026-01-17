@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+Through concentration, I can raise and lower my cholesterol at will.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
