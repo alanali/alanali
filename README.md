@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-All that singing got in the way of some perfectly good murders.
+In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
