@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It just seems awfully mean. But sometimes, the ends justify the mean.
+I have cause. It’s beCAUSE I hate him.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
