@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+I want you to rub butter on my foot… Pam, please? I have Country Crock.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
