@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Michael always says, ‘K-I-S-S: keep it simple, stupid.’ Great advice. Hurts my feelings every time.
+Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
