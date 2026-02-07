@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
