@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
+Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
