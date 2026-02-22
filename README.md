@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I took her to the hospital. And the doctors tried to save her life, they did the best they could. And she is going to be OK.
+I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
