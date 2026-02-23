@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I feel like all my kids grew up and then they married each other. It’s every parent’s dream.
+The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
