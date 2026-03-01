@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t want any special treatment, Pam. I just want you to treat me like you would some family member who’s undergone some sort of serious physical trauma. I don’t think that’s too much to ask?
+Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
