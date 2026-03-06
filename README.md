@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-When I die, I want to be frozen. And if they have to freeze me in pieces, so be it. I will wake up stronger than ever, because I will have used that time to figure out exactly why I died. And what moves I could have used to defend myself better now that I know what hold he had me in.
+If I were buying my coffin, I would get one with thicker walls so you couldn’t hear the other dead people.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
