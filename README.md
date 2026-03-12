@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
+In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
