@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+I saved a life. My own. Am I a hero?… I really can’t say, but yes!
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
