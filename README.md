@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t have a lot of experience with vampires, but I have hunted werewolves. I shot one once, but by the time I got to it, it had turned back into my neighbor’s dog.
+Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
