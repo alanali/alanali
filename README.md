@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information.
+You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
