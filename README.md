@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Michael is like Mozart, and I’m like Butch Cassidy. You mess with Mozart and you’re gonna get a bullet in your head, courtesy of Butch Cassidy.
+Through concentration, I can raise and lower my cholesterol at will.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
