@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hate to see you leave, but love to watch you go. ‘Cause of your butt.
+Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
