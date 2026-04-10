@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
+Why are all these people here? There’s too many people on this earth. We need a new plague.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
