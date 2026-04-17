@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-OK. When the baby emerges, mark it secretly in a kind of a mark that only you could recognize and no baby snatcher could ever copy.
+You better learn your rules. If you don’t, you’ll be eaten in your sleep.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
