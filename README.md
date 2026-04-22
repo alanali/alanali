@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Who is Justice Beaver?
+How is it possible that in five years, I’ve had two engagements and only one chair?
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Pam Beesly</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
