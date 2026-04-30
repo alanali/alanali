@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+I'm going to do something I've never done at this job before - try.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Jim Halpert</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
