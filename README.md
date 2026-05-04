@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-When I die, I want to be frozen. And if they have to freeze me in pieces, so be it. I will wake up stronger than ever, because I will have used that time to figure out exactly why I died. And what moves I could have used to defend myself better now that I know what hold he had me in.
+I find the mystery genre disgusting. I hate being titillated.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Angela Martin</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
