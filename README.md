@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Society teaches us that having feelings and crying is bad and wrong. Well, that’s baloney, because grief isn’t wrong. There’s such a thing as good grief. Just ask Charlie Brown.
+Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
