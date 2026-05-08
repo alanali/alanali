@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+I don’t come up with this stuff, I just forward it along. You wouldn’t arrest the guy who was just passing drugs from one guy to another.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
