@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Guess what, I have flaws. What are they? Oh, I don’t know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I’ll hit somebody with my car. So sue me.
+Like right here is my favorite New York pizza joint. And I’m going to go get me a New York slice.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
