@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They always say that it’s a mistake to hire your friends. And they are right. So, I hired my best friends. And this is what I get!?
+He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
