@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You know, I really would’ve appreciated a heads up that you were into dating mothers. I would’ve introduced you to mine.
+I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
