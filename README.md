@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+I am faster than 80 percent of all snakes.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
