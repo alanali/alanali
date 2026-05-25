@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Identity theft is not a joke, Jim! Millions of families suffer every year.
+Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Michael Scott</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
