@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
+This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
