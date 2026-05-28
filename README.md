@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
+Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
