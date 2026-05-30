@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-When I die, I want to be frozen. And if they have to freeze me in pieces, so be it. I will wake up stronger than ever, because I will have used that time to figure out exactly why I died. And what moves I could have used to defend myself better now that I know what hold he had me in.
+I saw Wedding Crashers accidentally. I bought a ticket for Grizzly Man and went into the wrong theater. After an hour, I figured I was in the wrong theater, but I kept waiting. ‘Cause that’s the thing about bear attacks… they come when you least expect it.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
