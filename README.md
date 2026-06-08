@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I want you to rub butter on my foot… Pam, please? I have Country Crock.
+When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
