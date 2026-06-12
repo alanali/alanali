@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Through concentration, I can raise and lower my cholesterol at will.
+You couldn’t handle my undivided attention.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
