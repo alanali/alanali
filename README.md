@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You couldn’t handle my undivided attention.
+Always the Padawan, never the Jedi.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
