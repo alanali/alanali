@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Always the Padawan, never the Jedi.
+Hey, what has two thumbs and hates Todd Packer? This guy.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Jim Halpert</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
