@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.
+Now that I own the building, I’m looking for new sources of revenue. And a daycare center? Muahahahahahahahaha. Well, I guess it’s not an evil idea, it’s just a regular idea, but there’s no good laugh for a regular idea.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
