@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-OK, too many different words from coming at me from too many different sentences.
+The only time I set the bar low is for limbo.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
