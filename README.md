@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-There were these huge bins of clothes and everybody was rifling through them like crazy. And I grabbed one and it fit! So, I don’t think that this is totally just a woman’s suit. At the very least it’s bisexual.
+Nobody should have to go to work thinking, ‘Oh, this is the place that I might die today.’ That’s what a hospital is for. An office is for not dying. An office is a place to live life to the fullest. To the max. To… an office is a place where dreams come true.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
