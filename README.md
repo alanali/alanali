@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Nobody should have to go to work thinking, ‘Oh, this is the place that I might die today.’ That’s what a hospital is for. An office is for not dying. An office is a place to live life to the fullest. To the max. To… an office is a place where dreams come true.
+Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
