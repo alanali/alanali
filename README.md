@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Granted, maybe this was not the best idea, but at least we care enough about our employees that we are willing to fight for them.
+When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
