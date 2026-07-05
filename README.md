@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It takes an advanced sense of humor. I don’t expect everyone to understand.
+I’m not a millionaire. I thought I would be by the time I was 30, but I wasn’t even close. Then I thought maybe by 40, but by 40, I had less money than I did when I was 30.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
