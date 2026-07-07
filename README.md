@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.
+I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
