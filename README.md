@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
