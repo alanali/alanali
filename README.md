@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I wonder if king-sized sheets are called presidential-sized in England?
+As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
