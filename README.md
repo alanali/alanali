@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-As a volunteer Sheriff’s Deputy, I’ve been doing surveillance for years. One time I suspected an ex-girlfriend of mine of cheating on me, so I tailed her for six nights straight. Turns out… she was. With a couple of guys actually, so… mystery solved.
+Everyone, follow me to the shelter. We’ve got enough food for 14 days. After that, we have a difficult conversation.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
