@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-If you break that girl’s heart, I will kill you. That’s just a figure of speech. But seriously, if you break that girl’s heart, I will literally kill you and your entire family.
+I'm going to do something I've never done at this job before - try.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Jim Halpert</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
