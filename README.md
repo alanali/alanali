@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+There are a huge number of yeast infections in this county. Probably because we’re downriver from that old bread factory.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
