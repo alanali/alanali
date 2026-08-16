@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I always knew I would be destroyed by my own creation, but honestly, I thought it would be that bull that Mose and I are trying to reanimate.
+Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
