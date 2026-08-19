@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-No, Rose, they are not breathing. And they have no arms or legs… Where are they? You know what? If we come across somebody with no arms or legs, do we bother resuscitating them? I mean, what quality of life do we have there?
+It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Dwight Schrute</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
