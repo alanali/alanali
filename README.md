@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s never the person who you most suspect. It’s also never the person you least suspect, since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis. The person who I most medium suspect.
+I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
