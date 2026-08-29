@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked, but it’s not like this compulsive need to be liked, like my need to be praised.
+Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
