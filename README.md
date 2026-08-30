@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Jan is cold. If she was sitting across from you on a train and she wasn’t moving, you might think she was dead.
+It’s Britney, bitch.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
