@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s Britney, bitch.
+Last, and possibly least, you didn’t think we’d forget, ‘That’s what she said!’
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
