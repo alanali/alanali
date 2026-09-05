@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
+That’s what she said!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
