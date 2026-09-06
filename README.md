@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-That’s what she said!
+Dwight, you ignorant slut!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
