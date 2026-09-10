@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Now that I own the building, I’m looking for new sources of revenue. And a daycare center? Muahahahahahahahaha. Well, I guess it’s not an evil idea, it’s just a regular idea, but there’s no good laugh for a regular idea.
+Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
