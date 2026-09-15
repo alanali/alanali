@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I learned a while back that if I do not text 911, people do not return my calls. Um, but now people always return my calls because they think that something horrible has happened.
+You will not die! Stanley! Stanley! Barack is President! You are black, Stanley!
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
