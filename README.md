@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Why are all these people here? There’s too many people on this earth. We need a new plague.
+Do I have a date for Valentine’s Day? Yes. February 14th.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
