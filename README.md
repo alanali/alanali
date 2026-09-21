@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Do I have a date for Valentine’s Day? Yes. February 14th.
+There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
