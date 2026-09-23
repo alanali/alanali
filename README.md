@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s a real shame because studies have shown that more information gets passed through water cooler gossip than through official memos. Which puts me at a disadvantage because I bring my own water to work.
+And I misspelled, in front of the entire school, the word ‘failure.’
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
