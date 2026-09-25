@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t understand. We have a day honoring Martin Luther King, but he didn’t even work here.
+You all took a life here today. You did. The life of the party.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
