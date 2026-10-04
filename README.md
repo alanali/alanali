@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
+I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
