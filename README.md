@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
+If I can’t scuba, then what’s this all been about? What am I working toward?
   <p></p>
-<p>- Dwight Schrute</p>
+<p>- Creed Bratton</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
