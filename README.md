@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.
+I signed up for second life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same… except I could fly.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
