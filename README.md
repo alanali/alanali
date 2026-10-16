@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Any man who says he totally understands women is a fool. Because they are un-understandable.
+And I feel God in this Chili’s tonight.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Pam Beesly</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
