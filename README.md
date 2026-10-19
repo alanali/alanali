@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I don’t care what they say about me. I just want to eat. Which I realize is a lot to ask for…at a dinner party.
+You know what they say about a car wreck, where it’s so awful you can’t look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making
   <p></p>
 <p>- Pam Beesly</p>
 </blockquote>
