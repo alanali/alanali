@@ -52,9 +52,9 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+I think green is kind of whorish.
   <p></p>
-<p>- Michael Scott</p>
+<p>- Angela Martin</p>
 </blockquote>
 
 _Quote requested from [The Office API](https://officeapi.akashrajpurohit.com/quote/random)_
