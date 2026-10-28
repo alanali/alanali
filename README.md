@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-It’s a pimple, Phyllis. Avril Lavigne gets them all the time, and she rocks harder than anyone alive.
+I’ve got to make sure that YouTube comes down to tape this.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
