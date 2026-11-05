@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-When the son of the deposed king of Nigeria emails you directly, asking for help, you help! His father ran the freaking country! OK?
+Two weeks ago, I was in the worst relationship of my life. She treated me poorly, we didn’t connect, I was miserable. Now, I am in the best relationship of my life, with the same woman. Love is a mystery.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
