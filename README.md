@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-They say on your deathbed you never wish you spent more time at the office — but I will.
+Two queens at casino night. I am gonna drop a deuce on everybody.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
