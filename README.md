@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-Two queens at casino night. I am gonna drop a deuce on everybody.
+And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
   <p></p>
 <p>- Michael Scott</p>
 </blockquote>
