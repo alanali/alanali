@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-I wonder if king-sized sheets are called presidential-sized in England.
+I am ready to face any challenge that might be foolish enough to face me.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
