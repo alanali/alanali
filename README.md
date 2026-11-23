@@ -52,7 +52,7 @@
 
 <h2 align="center">🏢 Quote of the Day: The Office 🏢</h2>
 <blockquote>
-You better learn your rules. If you don’t, you’ll be eaten in your sleep.
+Women are like wolves. If you want one, you must trap it. Snare it. Tame it. Feed it.
   <p></p>
 <p>- Dwight Schrute</p>
 </blockquote>
